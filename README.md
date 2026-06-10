@@ -1,6 +1,7 @@
 <div align="center">
 
-# 👋 Olá, bem-vindo ao meu perfil
+
+# <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="40"> Olá, bem-vindo ao meu perfil
 
 ### Desenvolvedor
 
