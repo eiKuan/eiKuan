@@ -33,6 +33,13 @@ constantemente ampliar meus conhecimentos.
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
+<br>
+<br>
+
+Atualmente me aprimorando em
+<br>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhyN25wOHloYWZ1ZmNvbHYxcWc0anV1M2YydzB3bWUzM3VreG5xOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="40" height="40" />
+
 </div>
 
 ---
@@ -41,9 +48,9 @@ constantemente ampliar meus conhecimentos.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eiKuan&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=eiKuan&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiKuan&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=eiKuan&layout=compact&theme=tokyonight"/>
 
 </div>
 
