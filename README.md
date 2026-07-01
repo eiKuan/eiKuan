@@ -15,8 +15,8 @@ Java | C | Spring Boot | MySQL | Docker | Git
 
 ## 🚀 Sobre
 
-Desenvolvedor com interesse em desenvolvimento backend, segurança da informação e desenvolvimento para hardware, buscando
-constantemente ampliar meus conhecimentos e aplicá-los em projetos e desafios reais.
+Desenvolvedor com interesse em desenvolvimento fullstack, segurança da informação e desenvolvimento para hardware, buscando
+constantemente ampliar meus conhecimentos.
 
 ---
 
