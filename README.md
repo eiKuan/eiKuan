@@ -3,10 +3,6 @@
 
 # <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="40"> Olá, bem-vindo ao meu perfil
 
-### Desenvolvedor
-
-Java | C | Spring Boot | MySQL | Docker | Git
-
 
 
 </div>
@@ -27,6 +23,7 @@ constantemente ampliar meus conhecimentos.
 <br>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -34,6 +31,7 @@ constantemente ampliar meus conhecimentos.
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 <br>
+
 <br>
 
 ### Atualmente me aprimorando em
