@@ -37,6 +37,7 @@ constantemente ampliar meus conhecimentos.
 ### Atualmente me aprimorando em
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhyN25wOHloYWZ1ZmNvbHYxcWc0anV1M2YydzB3bWUzM3VreG5xOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="40" height="40" />
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*-tOldEbfjijxn9VqZeULqg.gif" width="45" height="43" />
 
 </div>
 
